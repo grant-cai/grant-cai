@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Grant</h1>
-<h3 align="center">Statistics and Data Science, English, and Technology Management at UCSB</h3>
+<h3 align="center">Computer Science at UCSD</h3>
 
 - 🌱 I’m currently learning **even more about GCP and other things regarding big data!**
 
