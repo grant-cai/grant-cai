@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **data visualization, analysis, and machine learning**
 
-- 📫 How to reach me **grantcai@ucsb.edu**
+- 📫 How to reach me **grant_cai@outlook.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1rIhwt9aC3n8q68QnCFPrlolKug5E0VjB/view?usp=sharing](https://drive.google.com/file/d/1rIhwt9aC3n8q68QnCFPrlolKug5E0VjB/view?usp=sharing)
 
