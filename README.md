@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Grant</h1>
 <h3 align="center">Computer Science at UCSD</h3>
 
-- 🌱 I'm currently learning **even more about GCP and other things regarding big data!**
+- 🌱 I'm currently learning about **RAGs, Agents, and Recommender Systems!**
 - 💬 Ask me about **data visualization, analysis, and machine learning**
 - 📫 How to reach me **grant_cai@outlook.com**
 - 📄 Know about my experiences [https://drive.google.com/file/d/1rIhwt9aC3n8q68QnCFPrlolKug5E0VjB/view?usp=sharing](https://drive.google.com/file/d/1rIhwt9aC3n8q68QnCFPrlolKug5E0VjB/view?usp=sharing)
