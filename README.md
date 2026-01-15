@@ -4,7 +4,7 @@
 - 🌱 I'm currently learning about **RAGs, Agents, and Recommender Systems!**
 - 💬 Ask me about **data visualization, analysis, and machine learning**
 - 📫 How to reach me **grant_cai@outlook.com**
-- 📄 Know about my experiences [https://drive.google.com/file/d/1rIhwt9aC3n8q68QnCFPrlolKug5E0VjB/view?usp=sharing](https://drive.google.com/file/d/1H8rDNS6IMz6g4ghi5gfTuoO_Eo8OA0GM/view?usp=drive_link)
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1rIhwt9aC3n8q68QnCFPrlolKug5E0VjB/view?usp=sharing](https://drive.google.com/file/d/1H8rDNS6IMz6g4ghi5gfTuoO_Eo8OA0GM/view?usp=sharing)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
