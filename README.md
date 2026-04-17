@@ -7,13 +7,13 @@
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1H8rDNS6IMz6g4ghi5gfTuoO_Eo8OA0GM/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
-<table><tr>
+<table border="0" cellspacing="0"><tr>
 <td><a href="https://linkedin.com/in/grant-cai" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="grant-cai" height="30" width="40"/></a></td>
 <td><a href="https://instagram.com/grant.cai" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="grant.cai" height="30" width="40"/></a></td>
 </tr></table>
 
 <h3 align="left">Languages and Tools:</h3>
-<table><tr>
+<table border="0" cellspacing="0"><tr>
 <td><a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a></td>
 <td><a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/></a></td>
 <td><a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a></td>
